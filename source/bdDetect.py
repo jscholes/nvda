@@ -390,7 +390,7 @@ addUsbDevices("brailliantB", KEY_HID, {
 	"VID_1C71&PID_C022", # Brailliant BI 14
 	"VID_1C71&PID_C00A", # BrailleNote Touch
 })
-addUsbDevices("brailliantB", KEY_SERIAL, {
+addUsbDevices("brailliantB", KEY_CUSTOM, {
 	"Vid_1c71&Pid_c005", # Brailliant BI 32, 40 and 80
 	"Vid_1c71&Pid_c021", # Brailliant BI 14
 })
